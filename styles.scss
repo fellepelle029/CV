@@ -125,9 +125,11 @@ input {
       }
 
       .header-info-links {
+        display: flex;
         margin-top: 15px;
 
         a {
+          margin-right: 15px;
           display: flex;
           max-width: fit-content;
           align-items: center;

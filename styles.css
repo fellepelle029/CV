@@ -103,9 +103,11 @@ input {
   margin: 0 5px;
 }
 .cv .header .header-info .header-info-links {
+  display: flex;
   margin-top: 15px;
 }
 .cv .header .header-info .header-info-links a {
+  margin-right: 15px;
   display: flex;
   max-width: fit-content;
   align-items: center;
